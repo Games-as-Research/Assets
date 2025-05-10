@@ -1,5 +1,5 @@
 # Assets
-A tiny bucket storage for any GaR Projects 
+A tiny bucket storage for any MD Projects 
 
 If you put images or any small-ish files in here, you should be able to reference them into other projects. 
 
